@@ -7,6 +7,7 @@
 - :books: I’m currently studying machine learning and algorithms
 - 📫 How to find me: 
   - :star: [LinkedIn](https://www.linkedin.com/in/natalia-velasquez/)
+  - :office: [Portfolio](http://nataliavelasquez.glitch.me/)
 
 
 [![Natalia's github stats](https://github-readme-stats.vercel.app/api?username=nativelasquez-austin&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
