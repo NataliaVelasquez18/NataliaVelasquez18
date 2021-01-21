@@ -6,6 +6,6 @@
 - :colombia: I value diversity in the workplace
 - :books: I’m currently studying machine learning and algorithms
 - 📫 How to find me: 
-  - :star: [LinkedIn](https://www.https://www.linkedin.com/in/natalia-velasquez/)
+  - :star: [LinkedIn](https://www.https://linkedin.com/in/natalia-velasquez/)
 
 
