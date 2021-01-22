@@ -7,6 +7,7 @@
 - :books: I’m currently studying machine learning and algorithms
 - 📫 How to find me: 
   - :star: [LinkedIn](https://www.linkedin.com/in/natalia-velasquez/)
+  - :news: [Twitter](https://twitter.com/NatiVelasquez18)
   - :office: [Portfolio](http://nataliavelasquez.glitch.me/)
 
 
