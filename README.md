@@ -11,6 +11,6 @@
   - :office: [Portfolio](http://nataliavelasquez.glitch.me/)
 
 
-[![Natalia's github stats](https://github-readme-stats.vercel.app/api?username=nativelasquez-austin&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Natalia's github stats](https://github-readme-stats.vercel.app/api?username=NataliaVelasquez18&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nativelasquez-austin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaVelasquez18)](https://github.com/anuraghazra/github-readme-stats)
