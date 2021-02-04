@@ -4,7 +4,7 @@
 - :infinity: I love data science, programming, business, and technology
 - :nerd_face: I am obsessed with growing and learning new things every day
 - :colombia: I value diversity in the workplace
-- :books: I’m currently studying machine learning and algorithms
+- :books: I’m currently studying databases, programming in Python, SQL, and learning data visualization tools.
 - 📫 How to find me: 
   - :star: [LinkedIn](https://www.linkedin.com/in/natalia-velasquez/)
   - :newspaper: [Twitter](https://twitter.com/NatiVelasquez18)
