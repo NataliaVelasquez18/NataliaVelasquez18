@@ -14,7 +14,7 @@
 
   ## Current Projects 
   
-Employee Database - Creation of a SQL database step by step, enabling my audience to deploy in their machines.  After creating the database, I extracted information and provided some recommendations.
+[Employee Database](https://github.com/NataliaVelasquez18/Employee-database) - Creation of a SQL database step by step, enabling my audience to deploy in their machines.  After creating the database, I extracted information and provided some recommendations.
 
 Tech Stack: SQL, Postgres
 
