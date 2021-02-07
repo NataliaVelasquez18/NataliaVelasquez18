@@ -1,3 +1,4 @@
+---
 ### Hi there, I am Natalia 👋
 :curly_haired_woman: Pronouns: She/her
 
@@ -8,7 +9,17 @@
 - 📫 How to find me: 
   - :star: [LinkedIn](https://www.linkedin.com/in/natalia-velasquez/)
   - :newspaper: [Twitter](https://twitter.com/NatiVelasquez18)
+  
+  
+---
 
+  ## Current Projects 
+  
+Employee Database - Creation of a SQL database step by step, enabling my audience to deploy in their machines.  After creating the database, I extracted information and provided some recommendations.
+
+Tech Stack: SQL, Postgres
+
+---
 
 [![Natalia's github stats](https://github-readme-stats.vercel.app/api?username=NataliaVelasquez18&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
