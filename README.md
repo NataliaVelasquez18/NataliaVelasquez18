@@ -1,4 +1,3 @@
----
 ### Hi there, I am Natalia 👋
 :curly_haired_woman: Pronouns: She/her
 
