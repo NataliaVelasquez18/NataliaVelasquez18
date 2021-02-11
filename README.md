@@ -19,7 +19,7 @@
 Tech Stack: SQL, Postgres
 
 
-* [Movies_ETL](https://github.com/NataliaVelasquez18/Movies_ETL) - Showcasing the entire data pipeline.  Extracting data from a variety of sources in JSON and CSV formats to clean it and transforme it using Python and finally loading it into a PostgreSQL database using SQLAlchemy and to_SQL methods.
+* [Movies_ETL](https://github.com/NataliaVelasquez18/Movies_ETL) - Showcasing the data pipeline.  Extracting data from a variety of sources in JSON and CSV formats to clean it and transforme it using Python and finally loading it into a PostgreSQL database using SQLAlchemy and to_SQL methods.
 
 Tech Stack: Python, PostgreSQL, SQL
 
