@@ -26,6 +26,8 @@ Tech Stack: Python, PostgreSQL, SQL
 
 * [Wheater Analysis with SQLAlchemy and SQLite](https://github.com/NataliaVelasquez18/Weather-analysis-with-SQLAlchemy-and-SQLite/blob/main/README.md) - Advanced Data Storage and Retrieval using SQLAlchemy to connect and query a SQLite database. Executed statistical analysis with Python, produced visuals with Matplotlib, and provided business recommendations.
 
+Tech Stack: SQLite, Python: SQLAlchemy & Matplotlib, Jupyter
+
 ---
 
 [![Natalia's github stats](https://github-readme-stats.vercel.app/api?username=NataliaVelasquez18&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
