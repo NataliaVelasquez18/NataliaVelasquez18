@@ -1,7 +1,7 @@
 ### Hi there, I am Natalia 👋
 :curly_haired_woman: Pronouns: She/her
 
-- :infinity: I love data science, programming, business, and technology
+- :infinity: I love data science, business, and technology
 - :nerd_face: I am obsessed with growing and learning new things every day
 - :colombia: I value diversity in the workplace. Speak English and Spanish.
 - :books: I’m currently gaining technical programming skills in Excel, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning.
