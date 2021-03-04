@@ -1,7 +1,8 @@
 ### Hi there, I am Natalia 👋
 :curly_haired_woman: Pronouns: She/her
 
-Forward-looking leader that elevates an organization by implementing higher growth, customer-centric initiatives, spanning the full value chain―from scoping, sizing, and investigating data sets to relationship building, consultative selling, pipeline marketing, and operational strategies. She steers business plans that capitalize on the convergence of market opportunities, actionable reporting, C-suite presentations, and digital transformation strategies.
+Forward-looking leader that elevates an organization by providing insights to strategic planning and improvement of programs and processes. Steer business plans that capitalize on the convergence of market opportunities and operational efficiency to contribute to revenue generation and cost savings.  A data translator who provides teams with the clarity needed to impact decision making and strategy execution.
+
 
 - :infinity: I love data science, business, and technology
 - :nerd_face: I am obsessed with growing and learning new things every day
