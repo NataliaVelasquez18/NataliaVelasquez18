@@ -27,7 +27,9 @@ Tech Stack: SQLite, Python: SQLAlchemy & Matplotlib, Jupyter
 
 Tech Stack: SQL, Postgres, VS Code
 
+* [Statistical Analysis using R](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - Multiple linear regression, hypothesis testing, and study design for a car manufacturer.
 
+Tech Stack: R, RStudio
 
 ---
 
