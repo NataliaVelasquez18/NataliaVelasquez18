@@ -28,11 +28,6 @@ Tech Stack: SQLite, Python: SQLAlchemy & Matplotlib, Jupyter
 Tech Stack: SQL, Postgres, VS Code
 
 
-* [Movies_ETL](https://github.com/NataliaVelasquez18/Movies_ETL) -  Showcasing the data pipeline. Extracting data from a variety of sources in JSON and CSV formats. Clean and transform data using Python. Load data into a PostgreSQL database using SQLAlchemy and to_SQL methods.
-
-Tech Stack: Python, PostgreSQL, SQL
-
-
 
 ---
 
