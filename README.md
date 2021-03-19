@@ -18,7 +18,7 @@ Forward-looking leader that elevates an organization by providing insights to st
   ## Current Projects (WIP)
   
   
-* [Wheater Analysis with SQLAlchemy and SQLite](https://github.com/NataliaVelasquez18/Weather-analysis-with-SQLAlchemy-and-SQLite/blob/main/README.md) - Advanced Data Storage and Retrieval using SQLAlchemy to connect and query a SQLite database. Executed statistical analysis with Python, produced visuals with Matplotlib, and provided business recommendations.
+* [Wheater Analysis with SQLAlchemy and SQLite](https://github.com/NataliaVelasquez18/Weather-analysis-with-SQLAlchemy-and-SQLite/blob/main/README.md) - Advanced Data Storage and Retrieval using SQLAlchemy to connect and query a SQLite database. Executed statistical analysis with Python and produced visuals with Matplotlib.
 
 Tech Stack: SQLite, Python: SQLAlchemy & Matplotlib, Jupyter
 
