@@ -27,9 +27,17 @@ Tech Stack: SQLite, Python: SQLAlchemy & Matplotlib, Jupyter
 
 Tech Stack: SQL, Postgres, VS Code
 
-* [Statistical Analysis using R](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - Multiple linear regression, hypothesis testing, and study design for a car manufacturer.
+* [Predicting Car Performance: Statistical Analysis using R](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - The purpose of this analysis is to help Mechacar's Manufacturing team to understand what car features impact car performance the most. The manufacturing team will incorporate the insights into the manufacturing process aiming to produce the best performing cars in the market, rebrand the company image, and regain market share.
 
 Tech Stack: R, RStudio
+
+
+* [CitiBike: Descriptive Analytics for Venture Analysis with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors to gain some insights and learn from the CitiBike business in New York city in the month of August.
+
+Tech Stack: Tableau
+
+
+
 
 ---
 
