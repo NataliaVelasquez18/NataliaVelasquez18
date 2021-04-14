@@ -19,7 +19,7 @@ Forward-looking leader that elevates an organization by providing insights to st
   
   
 
-* [Predicting Car Performance: Statistical Analysis using R](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - The purpose of this analysis is to help Mechacar's Manufacturing team to understand what car features impact car performance the most. The manufacturing team will incorporate the insights into the manufacturing process aiming to produce the best performing cars in the market, rebrand the company image, and regain market share.
+* [Predicting Car Performance: Statistical Analysis using R](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - The purpose of this analysis is to help Mechacar's Manufacturing team to understand what car features' impact car performance the most. The manufacturing team will incorporate the insights into the manufacturing process aiming to produce the best performing cars in the market, rebrand the company image, and regain market share.
 
 Tech Stack: R, RStudio
 
