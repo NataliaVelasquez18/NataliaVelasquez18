@@ -37,9 +37,9 @@ Tech Stack: R, RStudio
 Tech Stack: Tableau
 
 
-* [Big Data (ETL): Analyzing Bias in Amazon Paid Review Program](https://github.com/NataliaVelasquez18/Amazon-Reviews-ETL) - The purpose of this analysis is to 
+* [Big Data (ETL): Analyzing Bias in Amazon Paid Review Program](https://github.com/NataliaVelasquez18/Amazon-Reviews-ETL) - The purpose of this study is to help Dream Games assess positive return on investment (ROI) in the Amazon Vine Program.  The executive team would like to understand potential bias in the Amazon Vine Program before they make the decision to join it. Dream Games wants to know if by joining the program and investing in giving free products to potential reviewers will help them to have high rating and greater volume of reviews. 
 
-Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS S3 & Database Service
+Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS Database Service
 
 
 ---
