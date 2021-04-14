@@ -32,7 +32,7 @@ Tech Stack: SQL, Postgres, VS Code
 Tech Stack: R, RStudio
 
 
-* [CitiBike: Descriptive Analytics for Venture Analysis with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors to gain some insights and learn from the CitiBike business in New York city in the month of August.
+* [CitiBike: Descriptive Analytics for Venture Analysis with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors to gain some insights and learn from the CitiBike business in New York city.
 
 Tech Stack: Tableau
 
