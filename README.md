@@ -37,6 +37,9 @@ Tech Stack: R, RStudio
 Tech Stack: Tableau
 
 
+* [Big Data (ETL): Analyzing Bias in Amazon Paid Review Program](https://github.com/NataliaVelasquez18/Amazon-Reviews-ETL) - The purpose of this analysis is to 
+
+Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS S3 & Database Service
 
 
 ---
