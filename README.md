@@ -33,7 +33,7 @@ Tech Stack: Tableau
 
 Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS Database Service, Jupyter
 
-* [Supervised Machine Learning: Predicting Credit Risk](https://github.com/NataliaVelasquez18/credit-risk) - The purpose of this study is to recommend whether PureLending should use machine learning to predict credit risk. Several machine learning models are built employing different techniques, then they are compared and analyzed to provide the recommendation. 
+* [Supervised Machine Learning: Predicting Credit Risk](https://github.com/NataliaVelasquez18/credit-risk) - (WIP) - The purpose of this study is to recommend whether PureLending should use machine learning to predict credit risk. Several machine learning models are built employing different techniques, then they are compared and analyzed to provide the recommendation. 
 
 Tech Stack: Jupyter, Python: Scikit-learn, Naive Random Oversampling, SMOTE Oversampling, Cluster Centroids, SMOTEEN, Random Forest Classifier, Easy Ensemble Classifier - AdaBoost
 
