@@ -7,7 +7,7 @@ Forward-looking leader that elevates an organization by providing insights to st
 - :infinity: I love data science, business, and technology
 - :nerd_face: I am obsessed with growing and learning new things every day
 - :colombia: I value diversity in the workplace. Speak English and Spanish.
-- :books: I’m currently gaining technical programming skills in Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning.
+- :books: I’m currently gaining technical programming skills in Python, R, SQL Databases, Tableau, Big Data, and Machine Learning.
 - 📫 How to find me: 
   - :star: [LinkedIn](https://www.linkedin.com/in/natalia-velasquez/)
   - :newspaper: [Twitter](https://twitter.com/NatiVelasquez18)
@@ -24,7 +24,7 @@ Forward-looking leader that elevates an organization by providing insights to st
 Tech Stack: R, RStudio
 
 
-* [CitiBike: Descriptive Analytics with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors to gain some insights and learn from the CitiBike business in New York city.
+* [CitiBike: Descriptive Analytics with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors to gain insights from the CitiBike business in New York city to build customer profiles.
 
 Tech Stack: Tableau
 
