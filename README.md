@@ -40,6 +40,6 @@ Tech Stack: Jupyter, Python: Scikit-learn, Naive Random Oversampling, SMOTE Over
 
 ---
 
-[![Natalia's github stats](https://github-readme-stats.vercel.app/api?username=NataliaVelasquez18&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Natalia's github stats](https://github-readme-stats.vercel.app/api?username=NataliaVelasquez18&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/NataliaVelasquez18/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaVelasquez18)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaVelasquez18)](https://github.com/NataliaVelasquez18/github-readme-stats)
