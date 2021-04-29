@@ -1,12 +1,10 @@
 ### Hi there, I am Natalia 👋
 :curly_haired_woman: Pronouns: She/her
 
-Forward-looking leader that elevates an organization by providing insights to strategic planning and improvement of programs and processes. Steer business plans that capitalize on the convergence of market opportunities and operational efficiency to contribute to revenue generation and cost savings.  A data translator who provides global internal and external teams with the clarity needed to impact decision making and strategy execution.
-
-
 - :infinity: I love data science, business, and technology
 - :nerd_face: I am obsessed with growing and learning new things every day
 - :colombia: I value diversity in the workplace. Speak English and Spanish.
+- :infinity: I am mission driven and like to collaborate with people who share the same purpose.
 - :books: I’m currently gaining technical programming skills in Python, R, SQL Databases, Tableau, Big Data, and Machine Learning.
 - 📫 How to find me: 
   - :star: [LinkedIn](https://www.linkedin.com/in/natalia-velasquez/)
@@ -19,17 +17,17 @@ Forward-looking leader that elevates an organization by providing insights to st
   
   
 
-* [Predicting Car Performance: Statistical Analysis using R](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - The purpose of this analysis is to help Mechacar's Manufacturing team to understand what car features' impact car performance the most. The manufacturing team will incorporate the insights into the manufacturing process aiming to produce the best performing cars in the market, rebrand the company image, and regain market share.
+* [Predicting Car Performance: Statistical Analysis using R](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - The purpose of this analysis is to help Mechacar's Manufacturing team to understand what car features impact car performance the most. The manufacturing team will incorporate the insights into the manufacturing process aiming to produce the best performing cars in the market, rebrand the company image, and regain market share.
 
 Tech Stack: R, RStudio
 
 
-* [Descriptive Analytics with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors in the Bikeshare business to gain insights from CitiBike NYC data, the target market, and the demographics of consumers to build the business plan.
+* [Descriptive Analytics with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors in the Bikeshare business to gain insights from CitiBike NYC data, the target market, and the demographics of consumers with the objective of building the business plan.
 
 Tech Stack: Tableau
 
 
-* [Big Data with PySpark & SQL: Analyzing Bias in Amazon Paid Review Program](https://github.com/NataliaVelasquez18/Amazon-Reviews-ETL) - The purpose of this study is to help Dream Games assess positive return on investment (ROI) in the Amazon Vine Program.  The executive team would like to understand potential bias in the Amazon Vine Program before they make the decision to join it. Dream Games wants to know if by joining the program and investing in giving free products to potential reviewers will help them to have high rating and greater volume of reviews. 
+* [Big Data with PySpark & SQL: Analyzing Bias in Amazon Paid Review Program](https://github.com/NataliaVelasquez18/Amazon-Reviews-ETL) - The purpose of this study is to help Dream Games assess positive return on investment (ROI) in the Amazon Vine Program.  The executive team will be enabled to decided whether or not to invest in the program.
 
 Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS Database Service, Jupyter
 
