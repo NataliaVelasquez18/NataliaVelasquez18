@@ -27,7 +27,7 @@ Tech Stack: R, RStudio
 Tech Stack: Tableau
 
 
-* [Big Data with PySpark & SQL: Analyzing Bias in Amazon Paid Review Program](https://github.com/NataliaVelasquez18/Amazon-Reviews-ETL) - The purpose of this study is to help Dream Games assess positive return on investment (ROI) in the Amazon Vine Program.  The executive team will be enabled to decided whether or not to invest in the program.
+* [Big Data with PySpark & SQL: Analyzing Bias in Amazon Paid Review Program](https://github.com/NataliaVelasquez18/Amazon-Reviews-ETL) - The purpose of this study is to help the executive team of DreamGames, an online videogame vendor, to decide if by joining the Amazon paid review program will generate a positive return on investment (ROI).
 
 Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS Database Service, Jupyter
 
