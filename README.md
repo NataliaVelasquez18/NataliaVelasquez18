@@ -24,7 +24,7 @@ Forward-looking leader that elevates an organization by providing insights to st
 Tech Stack: R, RStudio
 
 
-* [CitiBike: Descriptive Analytics with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors to gain insights from the CitiBike business in New York city to build customer profiles.
+* [Descriptive Analytics with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors in the Bikeshare business to gain insights from CitiBike NYC data, the target market, and the demographics of consumers to build the business plan.
 
 Tech Stack: Tableau
 
