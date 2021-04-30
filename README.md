@@ -22,11 +22,6 @@
 Tech Stack: R, RStudio
 
 
-* [Descriptive Analytics with Tableau](https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau) - The purpose of this analysis is to help potential investors in the Bikeshare business to gain insights from CitiBike NYC data, the target market, and the demographics of consumers with the objective of building the business plan.
-
-Tech Stack: Tableau
-
-
 * [Big Data with PySpark & SQL: Analyzing Bias in Amazon Paid Review Program](https://github.com/NataliaVelasquez18/Amazon-Reviews-ETL) - The purpose of this study is to help the executive team of DreamGames, an online videogame vendor, to decide if by joining the Amazon paid review program will generate a positive return on investment (ROI).
 
 Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS Database Service, Jupyter
