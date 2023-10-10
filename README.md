@@ -5,7 +5,7 @@
 - :nerd_face: I am obsessed with growing and learning new things every day
 - :colombia: I value diversity in the workplace. Speak English and Spanish.
 - :infinity: I am mission driven and like to collaborate with people who share the same purpose.
-- :books: I’m currently gaining technical programming skills in Python, R, SQL Databases, Tableau, Big Data, and Machine Learning.
+- :books: Technical programming skills in Python, SQL Databases, PowerBI, expossure to AWS Glue ETL, AWS Sagemaker, AWS S3, AWS Athena.
 - 📫 How to find me: 
   - :star: [LinkedIn](https://www.linkedin.com/in/natalia-velasquez/)
   - :newspaper: [Twitter](https://twitter.com/NatiVelasquez18)
