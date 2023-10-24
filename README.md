@@ -5,7 +5,7 @@
 - :nerd_face: I am obsessed with growing and learning new things every day
 - :colombia: I value diversity in the workplace. 
 - :infinity: I am mission driven and like to collaborate with people who share the same purpose.
-- :books: Technical programming skills in Python, SQL Databases, PowerBI, Tableau, expossure to AWS Glue ETL, AWS Sagemaker, AWS S3, AWS Athena.
+- :books: Technical programming skills in Python; Pandas, Numpy, Seaborn, Matplotlib, scikit-learn, SQL Databases, PowerBI, Tableau, expossure to AWS Glue ETL, AWS Sagemaker, AWS S3, AWS Athena.
 - 📫 How to find me: 
   - :star: [LinkedIn](https://www.linkedin.com/in/natalia-velasquez/)
   - :newspaper: [Twitter](https://twitter.com/NatiVelasquez18)
