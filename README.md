@@ -14,10 +14,14 @@
 ---
 
   ## Current Projects (WIP)
-  
-* [Shein Boosts Revenue by $5M+ By Understanding Consumer Trends](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/tree/main) - Shein, a clothing brand, is using data analytics to design its strategy for 2024. The company has had some issues with Review Ratings and also has a new market segment group that needs new offerings.  The purpose of this analysis is to help Shein boost revenue by understanding consumers and highlighting opportunities for improvement in Revew Ratings.
 
-Tech Stack: Python, Tableau
+* [Eurobank Saves 2M+ in Marketingn Budget with Machine Learning](https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/tree/main) - The purpose of this analysis is to help The European Bank to reduce marketing budget allocated to telemarketing campaigns by at least 50% while maintaining client conversions.
+
+Tech Stack: Python; Pandas, Numpy, Seaborn, Matplotlib, scikit-learn
+  
+* [Shein Boosts Revenue by $5M+ By Understanding Consumer Trends](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/tree/main) - The purpose of this analysis is to help Shein boost revenue by $5 M by launching new product and eliminating drivers for low Review Rating.
+
+Tech Stack: Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
 
 * [Predicting Car Performance: Statistical Analysis using R](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - The purpose of this analysis is to help Mechacar's Manufacturing team to understand what car features impact car performance the most. The manufacturing team will incorporate the insights into the manufacturing process aiming to produce the best performing cars in the market, rebrand the company image, and regain market share.
 
