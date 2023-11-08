@@ -23,7 +23,7 @@ Tech Stack: Python; Pandas, Numpy, Seaborn, Matplotlib, scikit-learn
 
 Tech Stack: Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
 
-* [Movies ETL]([https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis]) - A company in the live streaming business. Their data science team would like to develop an algorithm to predict which low budget movies being released will become popular. In order to do that it's necessary to go through the entire Data Pipeline (ETL)
+* [Movies ETL](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - A company in the live streaming business. Their data science team would like to develop an algorithm to predict which low budget movies being released will become popular. In order to do that it's necessary to go through the entire Data Pipeline (ETL)
 
 Tech Stack: R, RStudio
 
