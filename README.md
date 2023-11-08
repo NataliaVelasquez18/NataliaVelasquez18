@@ -23,6 +23,10 @@ Tech Stack: Python; Pandas, Numpy, Seaborn, Matplotlib, scikit-learn
 
 Tech Stack: Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
 
+* [Movies ETL]([https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis]) - A company in the live streaming business. Their data science team would like to develop an algorithm to predict which low budget movies being released will become popular. In order to do that it's necessary to go through the entire Data Pipeline (ETL)
+
+Tech Stack: R, RStudio
+
 * [Predicting Car Performance: Statistical Analysis using R](https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis) - The purpose of this analysis is to help Mechacar's Manufacturing team to understand what car features impact car performance the most. The manufacturing team will incorporate the insights into the manufacturing process aiming to produce the best performing cars in the market, rebrand the company image, and regain market share.
 
 Tech Stack: R, RStudio
