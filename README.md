@@ -1,10 +1,10 @@
 ### Hi there, I am Natalia 👋
 :curly_haired_woman: Pronouns: She/her
 
-- :infinity: I love data science, business, and technology
+- :infinity: I love data science, business, and providing delightful client experiences
 - :nerd_face: I am obsessed with growing and learning new things every day
 - :colombia: I value diversity in the workplace. 
-- :infinity: I am mission driven and like to collaborate with people who share the same purpose.
+- :infinity: I am mission driven and like to collaborate with people who share the same purpose to solve customer's most difficult challenges through data driven projects
 - :books: Technical programming skills in Python; Pandas, Numpy, Seaborn, Matplotlib, scikit-learn, SQL Databases, PowerBI, Tableau, expossure to AWS Glue ETL, AWS Sagemaker, AWS S3, AWS Athena.
 - 📫 How to find me: 
   - :star: [LinkedIn](https://www.linkedin.com/in/natalia-velasquez/)
