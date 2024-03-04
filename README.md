@@ -18,10 +18,6 @@
 * [Eurobank Saves 2M+ in Marketingn Budget with Machine Learning](https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/tree/main) - The purpose of this analysis is to help The European Bank to reduce marketing budget allocated to telemarketing campaigns by at least 50% while maintaining client conversions.
 
 Tech Stack: Python; Pandas, Numpy, Seaborn, Matplotlib, scikit-learn
-  
-* [Shein Boosts Revenue by $5M+ By Understanding Consumer Trends](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/tree/main) - The purpose of this analysis is to help Shein boost revenue by $5 M by launching new product and eliminating drivers for low Review Rating.
-
-Tech Stack: Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
 
 * [Movies ETL](https://github.com/NataliaVelasquez18/Movies_ETL) - A company in the live streaming business. Their data science team would like to develop an algorithm to predict which low budget movies being released will become popular. In order to do that it's necessary to go through the entire Data Pipeline (ETL)
 
@@ -31,7 +27,6 @@ Tech Stack: PostgreSQL, RStudio
 
 Tech Stack: R, RStudio
 
-
 * [Big Data with PySpark & SQL: Analyzing Bias in Amazon Paid Review Program](https://github.com/NataliaVelasquez18/Amazon-Reviews-ETL) - The purpose of this study is to help the executive team of DreamGames, an online videogame vendor, to decide if by joining the Amazon paid review program will generate a positive return on investment (ROI).
 
 Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS Database Service, Jupyter
@@ -40,7 +35,9 @@ Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS Database Service, Jup
 
 Tech Stack: Jupyter, Python: Scikit-learn, Naive Random Oversampling, SMOTE Oversampling, Cluster Centroids, SMOTEEN, Random Forest Classifier, Easy Ensemble Classifier - AdaBoost
 
+* [Shein Boosts Revenue by $5M+ By Understanding Consumer Trends](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/tree/main) - The purpose of this analysis is to help Shein boost revenue by $5 M by launching new product and eliminating drivers for low Review Rating.
 
+Tech Stack: Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
 ---
 
 [![Natalia's github stats](https://github-readme-stats.vercel.app/api?username=NataliaVelasquez18&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/NataliaVelasquez18/github-readme-stats)
