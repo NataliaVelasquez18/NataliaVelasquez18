@@ -19,6 +19,11 @@
 
 Tech Stack: Python; Pandas, Numpy, Seaborn, Matplotlib, scikit-learn
 
+* [Supervised Machine Learning: Predicting Credit Risk with Scikit-learn](https://github.com/NataliaVelasquez18/credit-risk) - (WIP) - The purpose of this study is to recommend whether PureLending should use machine learning to predict credit risk. Several machine learning models are built employing different techniques, then they are compared and analyzed to provide the recommendation. 
+
+Tech Stack: Jupyter, Python: Scikit-learn, Naive Random Oversampling, SMOTE Oversampling, Cluster Centroids, SMOTEEN, Random Forest Classifier, Easy Ensemble Classifier - AdaBoost
+
+
 * [Movies ETL](https://github.com/NataliaVelasquez18/Movies_ETL) - A company in the live streaming business. Their data science team would like to develop an algorithm to predict which low budget movies being released will become popular. In order to do that it's necessary to go through the entire Data Pipeline (ETL)
 
 Tech Stack: PostgreSQL, RStudio
@@ -31,9 +36,6 @@ Tech Stack: R, RStudio
 
 Tech Stack: Google Colab, Python: Pyspark, PostgreSQL, AWS Database Service, Jupyter
 
-* [Supervised Machine Learning: Predicting Credit Risk with Scikit-learn](https://github.com/NataliaVelasquez18/credit-risk) - (WIP) - The purpose of this study is to recommend whether PureLending should use machine learning to predict credit risk. Several machine learning models are built employing different techniques, then they are compared and analyzed to provide the recommendation. 
-
-Tech Stack: Jupyter, Python: Scikit-learn, Naive Random Oversampling, SMOTE Oversampling, Cluster Centroids, SMOTEEN, Random Forest Classifier, Easy Ensemble Classifier - AdaBoost
 
 * [Shein Boosts Revenue by $5M+ By Understanding Consumer Trends](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/tree/main) - The purpose of this analysis is to help Shein boost revenue by $5 M by launching new product and eliminating drivers for low Review Rating.
 
